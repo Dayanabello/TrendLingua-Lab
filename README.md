@@ -5,7 +5,7 @@ Revolución industrial  GUION <br>
 
 
 Introducción <br>
-: "A lo largo de la historiua <br>
+Mateo: "A lo largo de la historia las revoluciones industriales no solo han transformado la tecnología y las fábricas; si no que han rediseñado por completo las reglas de los negocios globales, el mercadeo y la comunicación internacional. Así que, bienvenidos a un recorrido por la evolución de nuestras carreras" <br>
 
 
 
@@ -40,10 +40,6 @@ Plano 07 - El cambio para las personas
 
 Dayana: "¿Qué cambia para las personas?, el profesional en lenguas deja de competir con la maquina y se transforma en un curador cultural, estratega y auditor ético de la calidad del lenguaje generado por IA. <br>
 
-Plano 08 - Cierre y conclusión <br>
-
-Dayana: "A lo largo de la revolución, estas han cambiado las herramientas, pero el lenguaje sigue siendo el puente definitivo de la humanidad. Nosotros construimos el futuro conectando culturas con responsabilidad; y una visión ética y sostenible". <br>
-
 
 
 
@@ -55,7 +51,7 @@ Tomás:
 1.ª Vapor <br>
 El mercadeo aún no existía como una profesión, se empezó a producir mucho más asi que surgió la necesidad de encontrar personas interesadas en comprar esos productos.<br>
 2.ª Electricidad<br>
-Apareció la publicidad masiva y las empresas empezaron a competir por la atención, gracias a la producción en masa empezaron a aparecer periodicos y carteles para convencer a los consumidores.<br>
+Apareció la publicidad masiva y las empresas empezaron a competir por la atención, gracias a la producción en masa empezaron a aparecer periódicos y carteles para convencer a los consumidores.<br>
 3.ª Electrónica <br>
 El mercadeo empieza a apoyarse con la tecnología, los computadores y el internet permiten guardar información y poder conocer mejor al consumidor y comunicarse con ellos de nuevas formas.<br>
 
@@ -119,5 +115,22 @@ Ganamos más oportunidades comerciales y conexión global, pero también aument�
 Quinta Revolución: IA<br>
 
 La inteligencia artificial ayudará a analizar mercados y tomar decisiones. Sin embargo, la negociación, la confianza y las relaciones humanas seguirán siendo fundamentales.”<br>
+
+
+
+Conclusiones <br>
+
+Plano 08 - Cierre y conclusión <br>
+
+Dayana: "A lo largo de la revolución, estas han cambiado las herramientas, pero el lenguaje sigue siendo el puente definitivo de la humanidad. Nosotros construimos el futuro conectando culturas con responsabilidad; y una visión ética y sostenible".<br>
+
+(Negocios):"
+
+(Mercadeo):"
+
+(Mercadeo):"
+
+
+
 
 
