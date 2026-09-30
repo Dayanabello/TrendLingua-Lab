@@ -30,16 +30,18 @@ Dayana: “
 
 
 
-Mercadeo y Estrategia Comercial
+Mercadeo y Estrategia Comercial <br>
+
 Tomás:
-1.ª Vapor
-El mercadeo aún no existía como una profesión, se empezó a producir mucho más asi que surgió la necesidad de encontrar personas interesadas en comprar esos productos.
-2.ª Electricidad
-Apareció la publicidad masiva y las empresas empezaron a competir por la atención, gracias a la producción en masa empezaron a aparecer periodicos y carteles para convencer a los consumidores
-3.ª Electrónica 
-El mercadeo empieza a apoyarse con la tecnología, los computadores y el internet permiten guardar información y poder conocer mejor al consumidor y comunicarse con ellos de nuevas formas
-4.ª Digitales
-Actualmente se puede conocer mejor al consumidor, las redes sociales, los smartphones y el Big Data permiten saber qué busca, qué le interesa y cómo responde a una campaña.
+1.ª Vapor <br>
+El mercadeo aún no existía como una profesión, se empezó a producir mucho más asi que surgió la necesidad de encontrar personas interesadas en comprar esos productos.<br>
+2.ª Electricidad<br>
+Apareció la publicidad masiva y las empresas empezaron a competir por la atención, gracias a la producción en masa empezaron a aparecer periodicos y carteles para convencer a los consumidores.<br>
+3.ª Electrónica <br>
+El mercadeo empieza a apoyarse con la tecnología, los computadores y el internet permiten guardar información y poder conocer mejor al consumidor y comunicarse con ellos de nuevas formas.<br>
+
+4.ª Digitales<br>
+Actualmente se puede conocer mejor al consumidor, las redes sociales, los smartphones y el Big Data permiten saber qué busca, qué le interesa y cómo responde a una campaña.<br>
 
 
 
@@ -48,15 +50,14 @@ Actualmente se puede conocer mejor al consumidor, las redes sociales, los smartp
 
 
 
-Mercadeo y estrategia comercial 
+
+Mercadeo y estrategia comercial <br>
 Nicole:
--En la primera revolución industrial la máquina de vapor permitió pasar de los talleres a las fábricas, pero el mercadeo aún no existía como profesión 
+-En la primera revolución industrial la máquina de vapor permitió pasar de los talleres a las fábricas, pero el mercadeo aún no existía como profesión <br>
 
--Con la electricidad y la producción en masa, aumentó la competencia y surgió la necesidad de diferenciar los productos con publicidad 
+-Con la electricidad y la producción en masa, aumentó la competencia y surgió la necesidad de diferenciar los productos con publicidad <br>
 
--La llegada de la tercera revolución incorporó los computadores y los datos, permitiendo segmentar mercados y conocer mejor a los consumidores 
-
-
+-La llegada de la tercera revolución incorporó los computadores y los datos, permitiendo segmentar mercados y conocer mejor a los consumidores <br>
 
 
 
@@ -70,18 +71,34 @@ Nicole:
 
 
 
-Negocios internacionales: mateo cruz
-Mateo cruz negocios internacionales 
 
-plano 1-vapor La máquina de vapor aumentó la producción y permitió que el comercio entre países comenzará a crecer.”
-Plano 2 – Electricidad
-*La electricidad permitió producir en masa, haciendo que las empresas buscarán nuevos mercados internacionales.”
-Plano 3 – Electrónica
-*La electrónica facilitó las comunicaciones y permitió negociar con empresas de otros países más rápidamente.
-Plano 4 – Digital
-*La era digital transformó los negocios con el comercio electrónico, los datos y las comunicaciones instantáneas
-Ganancias y pérdidas
-Ganamos más oportunidades comerciales y conexión global, pero también aumentó la competencia entre empresas
-Quinta Revolución: IA
-La inteligencia artificial ayudará a analizar mercados y tomar decisiones. Sin embargo, la negociación, la confianza y las relaciones humanas seguirán siendo fundamentales.”
+
+
+Negocios internacionales: mateo cruz<br>
+
+Mateo cruz negocios internacionales <br>
+
+
+plano 1-vapor La máquina de vapor aumentó la producción y permitió que el comercio entre países comenzará a crecer.”<br>
+
+Plano 2 – Electricidad<br>
+
+*La electricidad permitió producir en masa, haciendo que las empresas buscarán nuevos mercados internacionales.”<br>
+
+Plano 3 – Electrónica<br>
+
+*La electrónica facilitó las comunicaciones y permitió negociar con empresas de otros países más rápidamente.<br>
+
+Plano 4 – Digital<br>
+
+*La era digital transformó los negocios con el comercio electrónico, los datos y las comunicaciones instantáneas<br>
+
+Ganancias y pérdidas<br>
+
+Ganamos más oportunidades comerciales y conexión global, pero también aumentó la competencia entre empresas<br>
+
+Quinta Revolución: IA<br>
+
+La inteligencia artificial ayudará a analizar mercados y tomar decisiones. Sin embargo, la negociación, la confianza y las relaciones humanas seguirán siendo fundamentales.”<br>
+
 
