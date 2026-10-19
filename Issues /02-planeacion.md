@@ -9,3 +9,10 @@ LISTA DE TAREAS
 ☐ Uso de IA declarado: herramienta, versión, prompt y
 fecha
 ☐ Diagrama entregado en Canva
+
+PANEL DERECHO DEL ISSUE
+Assignees @tendatrip · rol INV
+Labels documento · idear
+Projects Status: Backlog · Fase: Idear
+Inicio: 19/10/2026 · Fin: 21/10/2026
+Milestone Semana 1
