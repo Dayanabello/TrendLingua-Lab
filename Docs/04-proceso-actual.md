@@ -9,8 +9,8 @@ Droguería Medical 1 y qué le duele de él.
 | Área | area de ventas|
 | Fecha y hora | 26/10/2026 - 12:51pm |
 | Medio (presencial / llamada / videollamada) |presencial |
-| ¿Autorizó publicar sus respuestas en el repositorio? (Sí / No, se usan iniciales)
-|si |
+| ¿Autorizó publicar sus respuestas en el repositorio? (Sí / No, se usan iniciales) si
+| |
 | Entrevistador(es) | Nicole Guerrero|
 > El entrevistado es **usuario** de la organización, es decir, quien vive el
 proceso. No es un cliente de la organización.
@@ -52,8 +52,8 @@ cómo funciona actualmente el conteo, sección y empaque manual de pastillas al 
 11. Si el conteo, sección y empaque manual de pastillas al momento de atender a un cliente en caja. funcionara perfecto, ¿qué cambiaría en su día?
 12. ¿Qué le ayudaría a ahorrar tiempo, dinero o esfuerzo en el conteo, sección y empaque manual de pastillas al momento de atender a un cliente en caja.?
 **Proceso actual en Medical 1** (las escribe el equipo)
-13.
-14.
+13. ¿Que dificultades tiene para mantener la precision del conteo de pastillas mientras atiende a los clientes en caja?
+14. ¿Cuento tiempo se demora normalmente en contar y empacar las pastillas de un cliente?
 ## 4. Resultados
 - [Resultados de la entrevista](../assets/resultados-entrevista.md)
 - [Mapa de empatía](../assets/mapa-empatia.png)
