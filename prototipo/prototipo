@@ -13,7 +13,11 @@ el dispensador entrega la dosis exacta en menos tiempo que haciendo un conteo ma
 que el auxiliar al contarlo a mano.
 ## Versión 0.1
 **Qué tiene la v0.1:**
-1. Pantalla para registrar un pedido (cliente, producto, cantidad, hora de
-entrega).
+1. Es un primer prototipo impreso en 3D, armado con 5 piezas:
+- Tolva
+- Rueda dosificadora
+- Cuerpo del rotor
+- Bandeja de salida
+- Base electrónica
 **Evidencia:**
 ![Prototipo v0.1](..
