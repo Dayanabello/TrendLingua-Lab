@@ -9,7 +9,7 @@ Droguería Medical 1 y qué le duele de él.
 | Área | area de ventas|
 | Fecha y hora | 26/10/2026 - 12:51pm |
 | Medio (presencial / llamada / videollamada) |presencial |
-| ¿Autorizó publicar sus respuestas en el repositorio? (Sí / No, se usan iniciales) si
+| ¿Autorizó publicar sus respuestas en el repositorio? (Sí / No, se usan iniciales) |si |
 | |
 | Entrevistador(es) | Nicole Guerrero|
 > El entrevistado es **usuario** de la organización, es decir, quien vive el
