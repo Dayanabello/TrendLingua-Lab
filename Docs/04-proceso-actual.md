@@ -3,15 +3,15 @@
 Droguería Medical 1 y qué le duele de él.
 | Dato | Respuesta |
 |---|---|
-| Nombre (o iniciales) | |
-| Cargo | |
-| Organización | |
+| Nombre (o iniciales) | Claudia Gonzalez |
+| Cargo |administrador |
+| Organización | Drogueria Medical 1|
 | Área | |
-| Fecha y hora | |
-| Medio (presencial / llamada / videollamada) | |
+| Fecha y hora | 26/10/2026 - 12:51pm |
+| Medio (presencial / llamada / videollamada) |presencial |
 | ¿Autorizó publicar sus respuestas en el repositorio? (Sí / No, se usan iniciales)
 | |
-| Entrevistador(es) | |
+| Entrevistador(es) | Nicole Guerrero|
 > El entrevistado es **usuario** de la organización, es decir, quien vive el
 proceso. No es un cliente de la organización.
 ## 2. Cómo aplicar la entrevista
@@ -31,27 +31,27 @@ ni presenten su idea de prototipo.
 2. Con esas frases, llenen `assets/mapa-empatia.png`.
 ## 3. Preguntas
 **Piensa y siente**
-1. ¿Qué es lo que más le preocupa cuando hace [proceso] en [área]?
-2. Si pudiera cambiar una sola cosa de [proceso], ¿cuál sería y por qué?
+1. ¿Qué es lo que más le preocupa cuando hace el conteo, sección y empaque manual de pastillas al momento de atender a un cliente en caja. en el area de ventas?
+2. Si pudiera cambiar una sola cosa del conteo, sección y empaque manual de pastillas al momento de atender a un cliente en caja., ¿cuál sería y por qué?
 **Ve**
-3. ¿Cómo es el lugar y con qué herramientas hace [proceso] (papel, Excel, sistema,
+3. ¿Cómo es el lugar y con qué herramientas hace Actualmente el conteo, sección y empaque manual de pastillas al momento de atender a un cliente en caja. (papel, Excel, sistema,
 máquinas)?
-4. ¿Ha visto en otra empresa o área una forma de hacer [proceso] que le parezca
+4. ¿Ha visto en otra empresa o área una forma de hacer el conteo, sección y empaque manual de pastillas al momento de atender a un cliente en caja. que le parezca
 mejor? ¿Cuál?
 **Oye**
-5. ¿Qué le dicen su jefe, sus compañeros o los clientes de [organización] sobre
-cómo funciona [proceso]?
-6. ¿De quién recibe instrucciones, quejas o recomendaciones sobre [proceso]?
+5. ¿Qué le dicen su jefe, sus compañeros o los clientes de Medical 1 sobre
+cómo funciona actualmente el conteo, sección y empaque manual de pastillas al momento de atender a un cliente en caja.?
+6. ¿De quién recibe instrucciones, quejas o recomendaciones sobre el conteo, sección y empaque manual de pastillas al momento de atender a un cliente en caja.?
 **Dice y hace**
-7. Cuénteme paso a paso qué hizo la última vez que realizó [proceso].
-8. ¿Qué hace cuando algo sale mal en [proceso]?
+7. Cuénteme paso a paso qué hizo la última vez que realizó el conteo, sección y empaque manual de pastillas al momento de atender a un cliente en caja..
+8. ¿Qué hace cuando algo sale mal en el conteo, sección y empaque manual de pastillas al momento de atender a un cliente en caja.?
 **Dolores**
-9. ¿Qué es lo más lento, difícil o frustrante de [proceso]?
-10. ¿Cuándo fue la última vez que tuvo un problema con [proceso] y qué pasó?
+9. ¿Qué es lo más lento, difícil o frustrante del conteo, sección y empaque manual de pastillas al momento de atender a un cliente en caja.?
+10. ¿Cuándo fue la última vez que tuvo un problema con el conteo, sección y empaque manual de pastillas al momento de atender a un cliente en caja. y qué pasó?
 **Ganancias**
-11. Si [proceso] funcionara perfecto, ¿qué cambiaría en su día?
-12. ¿Qué le ayudaría a ahorrar tiempo, dinero o esfuerzo en [proceso]?
-**Proceso actual en [organización]** (las escribe el equipo)
+11. Si el conteo, sección y empaque manual de pastillas al momento de atender a un cliente en caja. funcionara perfecto, ¿qué cambiaría en su día?
+12. ¿Qué le ayudaría a ahorrar tiempo, dinero o esfuerzo en el conteo, sección y empaque manual de pastillas al momento de atender a un cliente en caja.?
+**Proceso actual en Medical 1** (las escribe el equipo)
 13.
 14.
 ## 4. Resultados
