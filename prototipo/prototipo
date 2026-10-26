@@ -8,7 +8,9 @@
 **Hipótesis**
 > El conteo de pastillas será más rápido y habrá menos errores que con el conteo manual frente al cliente lo cual
 ayudará a reducir las demoras en las filas 
-**Sabremos que es cierto si:** en una semana de prueba no se pierde ningún pedido.
+**Sabremos que es cierto si:** Sabremos que es cierto si en varias pruebas que se realicen
+el dispensador entrega la dosis exacta en menos tiempo que haciendo un conteo manual y comete menos errores 
+que el auxiliar al contarlo a mano.
 ## Versión 0.1
 **Qué tiene la v0.1:**
 1. Pantalla para registrar un pedido (cliente, producto, cantidad, hora de
