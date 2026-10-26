@@ -6,8 +6,8 @@
 | **Tipo de prototipo** | Modelo 3D |
 | **Usuario** | Encargada de pedidos |
 **Hipótesis**
-> Creemos que la encargada de pedidos podrá dejar de perder pedidos anotados en
-papel si usa una página donde los registra y los ve en una lista.
+> El conteo de pastillas será más rápido y habrá menos errores que con el conteo manual frente al cliente lo cual
+ayudará a reducir las demoras en las filas 
 **Sabremos que es cierto si:** en una semana de prueba no se pierde ningún pedido.
 ## Versión 0.1
 **Qué tiene la v0.1:**
