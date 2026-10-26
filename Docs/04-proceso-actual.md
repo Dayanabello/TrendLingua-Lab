@@ -6,11 +6,11 @@ Droguería Medical 1 y qué le duele de él.
 | Nombre (o iniciales) | Claudia Gonzalez |
 | Cargo |administrador |
 | Organización | Drogueria Medical 1|
-| Área | |
+| Área | area de ventas|
 | Fecha y hora | 26/10/2026 - 12:51pm |
 | Medio (presencial / llamada / videollamada) |presencial |
 | ¿Autorizó publicar sus respuestas en el repositorio? (Sí / No, se usan iniciales)
-| |
+|si |
 | Entrevistador(es) | Nicole Guerrero|
 > El entrevistado es **usuario** de la organización, es decir, quien vive el
 proceso. No es un cliente de la organización.
