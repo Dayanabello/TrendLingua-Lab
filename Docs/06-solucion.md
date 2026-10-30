@@ -12,7 +12,7 @@ Así se disminuyen los errores y se mejora la rapidez y precisión del servicio.
 
 ## Flujo de información
 
-![Flujo de información](../assets/flujo-informacion.png)
+assets/flujo-informacion modi.png
 
 | Paso | Entrada (qué información llega) | Proceso (qué se hace) | Responsable (quién) | Salida (qué información sale) |
 |---|---|---|---|---|
