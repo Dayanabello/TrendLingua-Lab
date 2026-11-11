@@ -76,5 +76,5 @@ Consideramos validada la hipótesis si se cumplen las tres condiciones.
 
 ### Qué vamos a cambiar
 
-Video: [ENLACE]
+Video: https://youtu.be/unt0_tqdsXI?si=8rSWt8cNW7hc1I8I
 
